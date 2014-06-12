@@ -7,7 +7,7 @@
 #define WEBVIEW_H
 
 //Qt includes
-#include <QtWebKit/QWebView>
+#include <QWebView>
 #include <QObject>
 #include <QUrl>
 #include <QtNetwork/QNetworkReply>

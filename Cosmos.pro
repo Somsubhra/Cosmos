@@ -7,7 +7,7 @@ SOURCES += \
     toolbar.cpp \
     findbar.cpp
 
-QT += webkit
+QT += widgets webkitwidgets
 
 HEADERS += \
     mainwindow.h \
